@@ -1,4 +1,7 @@
 # Git Flow Example Repository
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Welcome to Git Flow! This repository aims to instruct in the proper conventional
 use of Github for code contribution. Anyone is welcome to submit Pull Requests
@@ -32,3 +35,22 @@ an Allegheny College Computer Science alum who is passionate about coding and
 teamwork in computer science through Git. He is always available to answer any
 questions about using the Github issue tracker, creating pull requests, or
 approving changes. Just make an issue or pull request to this repository.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://quigleyc.com"><img src="https://avatars1.githubusercontent.com/u/35495466?v=4" width="100px;" alt=""/><br /><sub><b>Carson Quigley</b></sub></a><br /><a href="https://github.com/quigley-c/git-flow-example/commits?author=quigley-c" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
