@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "johnsc1",
+      "name": "Claire Johns",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/42869556?v=4",
+      "profile": "https://github.com/johnsc1",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "git-flow-example",
+  "projectOwner": "quigley-c",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
