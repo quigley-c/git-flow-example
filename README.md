@@ -11,7 +11,7 @@ to this repository as a hands-on approach to working with Github.
 
 Contributing to this repository is as simple as following proper Github flow for
 code contribution. If you don't know what that is or how to do it, I recommend
-checking out [this](https://guides.github.com/introduction/flow/) page on github.
+checking out [this](https://guides.github.com/introduction/flow/) page on Github.
 For those who already know a little bit about Git, a TL;DR is listed here as well.
 
 ## Github Flow
