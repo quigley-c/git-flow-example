@@ -18,8 +18,7 @@ For those who already know a little bit about Git, a TL;DR is listed here as wel
 
 If you want to practice your Git Flow skills, you can either create an issue
 in the [issue tracker](https://github.com/quigley-c/git-flow-example/issues)
-or clone this repository to make a [pull request](
-https://github.com/quigley-c/git-flow-example-pulls).
+or clone this repository to make a [pull request](https://github.com/quigley-c/git-flow-example-pulls).
 
 If you're going to make a pull request (PR from here on out) you should follow
 the basic steps.
