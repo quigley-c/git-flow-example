@@ -29,7 +29,7 @@ the basic steps.
 
 ## quigley-c
 
-The maintainer of this repository, [quigley-c](https://github.com:quigley-c), is
+The maintainer of this repository, [quigley-c](https://github.com/quigley-c), is
 an Allegheny College Computer Science alum who is passionate about coding and
 teamwork in computer science through Git. He is always available to answer any
 questions about using the Github issue tracker, creating pull requests, or
