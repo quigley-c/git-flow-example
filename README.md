@@ -11,15 +11,14 @@ to this repository as a hands-on approach to working with Github.
 
 Contributing to this repository is as simple as following proper Github flow for
 code contribution. If you don't know what that is or how to do it, I recommend
-checking out [this](https://guides.github.com/introduction/flow/) page on github.
+checking out [this](https://guides.github.com/introduction/flow/) page on Github.
 For those who already know a little bit about Git, a TL;DR is listed here as well.
 
 ## Github Flow
 
 If you want to practice your Git Flow skills, you can either create an issue
 in the [issue tracker](https://github.com/quigley-c/git-flow-example/issues)
-or clone this repository to make a [pull request](
-https://github.com/quigley-c/git-flow-example-pulls).
+or clone this repository to make a [pull request](https://github.com/quigley-c/git-flow-example/pulls).
 
 If you're going to make a pull request (PR from here on out) you should follow
 the basic steps.
@@ -30,7 +29,7 @@ the basic steps.
 
 ## quigley-c
 
-The maintainer of this repository, [quigley-c](https://github.com:quigley-c), is
+The maintainer of this repository, [quigley-c](https://github.com/quigley-c), is
 an Allegheny College Computer Science alum who is passionate about coding and
 teamwork in computer science through Git. He is always available to answer any
 questions about using the Github issue tracker, creating pull requests, or
